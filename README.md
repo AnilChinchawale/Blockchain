@@ -1,4 +1,4 @@
-![Blockchain](https://www.digimarc.com/public_images/blockchain-1500x600.jpg)
+
 
 # Blockchain and cryptocurrency Document Library:
 Collection of useful documents about Bitcoin, Ethereum, blockchain technologies and distributed system.
